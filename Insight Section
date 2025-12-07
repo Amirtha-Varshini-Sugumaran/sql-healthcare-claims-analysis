@@ -1,0 +1,8 @@
+Key Findings from SQL Analysis:
+
+Processed 30 total claims across 7 claim types.
+Inpatient claims showed the highest average cost (~₹14k–₹17k).
+Several high-value claims (> ₹15,000) indicate potential anomalies requiring manual review.
+Members 6, 9, and 10 have the highest total claim amounts → high-utilization members.
+"Under Review" status appears frequently, suggesting workflow bottlenecks.
+Approval rates differ widely across claim types → potential optimization area.
